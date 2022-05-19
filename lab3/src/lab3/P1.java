@@ -7,6 +7,7 @@ public class P1 {
 			System.out.println("salut");
 			System.out.println("commi2 nr 2");
 			System.out.println("commi2 nr 3");
+			System.out.println("commi2 nr 4");
 	}
 
 }
